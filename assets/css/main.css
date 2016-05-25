@@ -3,6 +3,7 @@
 	background-size: cover;
 	height: 100%;
 	margin-bottom: 0px;
+
 }
 
 .desafioCorp {
@@ -16,6 +17,8 @@
 
 .about {
 	background-color: #5D6791;
+	position: static;
+
 }
 
 .about h2 {
@@ -23,7 +26,31 @@
 	text-align: center;
 }
 
+h2 {
+	margin-top: 0px;
+}
+
 .thumbnail {
 	background-color: #6C77AB;
+}
+
+.join {
+	background-color: #73A2BD;
+}
+
+.join h2 {
+	color: #B8D0DE;
+	text-align: center;
+}
+
+.formularioConsulta {
+	margin-top:30px;
+	width:60%;
+}
+
+.footer {
+    background-color:#B8D0DE;
+	text-align: center;
+
 }
 
