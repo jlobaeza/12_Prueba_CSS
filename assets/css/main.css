@@ -2,6 +2,7 @@
 	background-image: url(../images/corporate.jpg);
 	background-size: cover;
 	height: 100%;
+	margin-bottom: 0px;
 }
 
 .desafioCorp {
@@ -11,5 +12,18 @@
 .jumbotron h1 {
 	color: #A1A8C9;
 	text-align: center;
+}
+
+.about {
+	background-color: #5D6791;
+}
+
+.about h2 {
+	color: #A1A8C9;
+	text-align: center;
+}
+
+.thumbnail {
+	background-color: #6C77AB;
 }
 
